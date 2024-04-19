@@ -28,7 +28,7 @@ To get started with OpenHealthChatLLM, follow these steps:
 OpenHealthChatLLM is licensed under the MIT License.
 
 ### Contact:
-For inquiries or suggestions, please contact the project maintainers at [email@example.com](mailto:kal@healthiai.org).
+For inquiries or suggestions, please contact the project maintainers at [kal@healthiai.org](mailto:kal@healthiai.org).
 
 ### Disclaimer:
 OpenHealthChatLLM is a research project and should not be used as a substitute for professional medical advice. Users are encouraged to consult qualified healthcare professionals for medical concerns and advice.
