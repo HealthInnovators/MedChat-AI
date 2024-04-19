@@ -3,6 +3,16 @@
 ### Overview:
 OpenHealthChatLLM is an open-source large language model (LLM) specifically designed for healthcare chat applications. It aims to provide accurate, reliable, and context-aware responses to inquiries related to medical information, health advice, symptom analysis, and more. The model will be trained on a diverse dataset sourced from reputable medical literature, clinical guidelines, and anonymized patient data (in compliance with privacy regulations) to ensure its effectiveness and safety in providing healthcare-related information.
 
+### Project Structure:
+Folders within the repository for different components:
+**data**: This folder will store the training data for the LLM.
+Focus on collecting publicly available healthcare chat conversations, medical information resources, and relevant research papers.
+Ensure proper anonymization of any patient data.
+**code**: This folder will hold the scripts for training, fine-tuning, and deploying the LLM.
+We will consider using open-source libraries like Transformers (https://huggingface.co/docs/transformers/en/index) and libraries for medical text processing.
+**docs**: This folder will include documentation on using the LLM, including installation instructions, API details, and usage examples.
+**evaluations**: This folder will store the results of performance evaluations on the LLM, including metrics relevant to healthcare chat applications (e.g., accuracy, safety, bias detection).
+
 ### Features:
 - **Context-aware Responses:** OpenHealthChatLLM understands the context of the conversation and provides relevant responses tailored to the user's inquiries.
 - **Medical Knowledge Base:** The model is trained on a vast repository of medical knowledge, covering various medical specialties and topics.
