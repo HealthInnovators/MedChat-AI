@@ -44,3 +44,5 @@ For inquiries or suggestions, please contact the project maintainers at [kal@hea
 
 ### Disclaimer:
 OpenHealthChatLLM is a research project and should not be used as a substitute for professional medical advice. Users are encouraged to consult qualified healthcare professionals for medical concerns and advice.
+
+### Join us on Discord - https://discord.gg/ZF2N8BkU
