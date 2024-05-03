@@ -1,11 +1,40 @@
 # OpenHealthChatLLM
 
 ### Overview:
-OpenHealthChatLLM is an open-source large language model (LLM) specifically designed for healthcare chat applications. It aims to provide accurate, reliable, and context-aware responses to inquiries related to medical information, health advice, symptom analysis, and more. The model will be trained on a diverse dataset sourced from reputable medical literature, clinical guidelines, and anonymized patient data (in compliance with privacy regulations) to ensure its effectiveness and safety in providing healthcare-related information.
+OpenHealthChatLLM is an open-source language model (LLM) specifically designed for healthcare chat applications. It aims to provide accurate, reliable, and context-aware responses to inquiries related to medical information, health advice, symptom analysis, and more. The model will be trained on a diverse dataset sourced from reputable medical literature, clinical guidelines, and anonymized patient data (in compliance with privacy regulations) to ensure its effectiveness and safety in providing healthcare-related information.
+
+### Useful Links
+
+We will consider using the following technologies:
+
+Clinical Models:
+
+ClinicalBERT - https://huggingface.co/medicalai/ClinicalBERT
+BioMistral - (Quantized Model - Runs on local computer cpu): https://huggingface.co/MaziyarPanahi/BioMistral-7B-GGUF
+
+Opensource Vector Databases:
+
+Qdrant - https://qdrant.tech/
+Weviate - https://weaviate.io/
+Milvus - https://milvus.io/
+
+We will fine tune models using LLaMA Factory - https://github.com/hiyouga/LLaMA-Factory
+
+Watch this video to implement the chatbot locally - https://www.youtube.com/watch?v=A_m3tCqdts4
+
+Use cases:
+
+**MedPal** (Health Advocate AI) - https://docs.google.com/document/d/140chg3InY17M1cHWs5h8-TbLYf810MfDHz5eWt1iGe4/edit?usp=sharing
+**LabPal** - Most lab procedures involve specific dietary protocols to following before the procedure, LabPal helps the patient follow these protocols in simple language. The lab procedure could get cancelled if the patient does not adhere to the protocols.
+**SurgeryPal** - All surgical procedures involve specific protocols to following before the surgery, SurgeryPal helps the patient follow these protocols in simple language. The Surgery could get cancelled if the patient does not adhere to the protocols.
+**AA Chat** - Alcoholics Anonymous Chat helps with addiction and connects to AA mentors. AA uploads all the training material and resources to our vector database.
+
+
 
 ### Join our events - https://www.meetup.com/healthi/events/300523228/
 
 ### Project Structure:
+
 Folders within the repository for different components:
 **data**: This folder will store the training data for the LLM.
 Focus on collecting publicly available healthcare chat conversations, medical information resources, and relevant research papers.
