@@ -1,0 +1,36 @@
+May 9
+
+Framework to build RAG Chat health applications
+
+https://arxiv.org/pdf/2402.00746
+https://github.com/MingyuJ666/HealthLLM
+https://youtu.be/Us44JYUVX9g?si=LvCeXm6U2vtWBzoz
+https://www.llamaindex.ai/
+
+Models
+
+ClinicalBERT (Clinical model trained on EHR data) - https://arxiv.org/abs/1904.05342 | https://huggingface.co/medicalai/ClinicalBERT
+
+BioMistral (Medical model trained on PubMed central data) - https://arxiv.org/abs/2402.10373 | https://huggingface.co/BioMistral/BioMistral-7B
+
+Llama 3 (General purpose model) - https://llama.meta.com/llama3/
+
+Model Fine-tuning - https://github.com/hiyouga/LLaMA-Factory
+
+Use cases for RAG Chatbot
+
+## Chatbot for medical record and personal data 
+
+Download your medical record on your iPhone via Apple HealthKit - https://support.apple.com/en-ca/guide/iphone/iphc30019594/ios
+Google Fit (Lets you download your health data on Android) - https://www.google.com/fit/
+Blue Button (You can download your medical record using the blue button) - https://www.healthit.gov/topic/patient-access-information-individuals-get-it-check-it-use-it/blue-button
+Open Data Kit (Lets you acquire data from wearable devices) - https://getodk.org/
+Electronic Health Records (EHRs) Data Exploration - https://www.kaggle.com/code/gpreda/electronic-health-records-ehrs-data-exploration
+Medical Records Dataset - https://www.kaggle.com/datasets/cankatsrc/medical-records-dataset
+Synthea Dataset Jsons - https://www.kaggle.com/datasets/krsna540/synthea-dataset-jsons-ehr
+Apple Watch and Fitbit Kaggle data - https://www.kaggle.com/datasets/aleespinosa/apple-watch-and-fitbit-data
+Smartwatch Data Analysis - https://www.kaggle.com/code/amirmotefaker/smartwatch-data-analysis
+Activity recognition using wearables Kaggle datasets - https://www.kaggle.com/c/activity-recognition-wearables/overview
+FitBit Fitness Tracker Kaggle Data - https://www.kaggle.com/datasets/arashnic/fitbit/code
+
+## Chatbot for Medicare health insurance policy - https://www.medicare.gov/publications/10050-Medicare-and-You.pdf 
