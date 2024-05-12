@@ -35,17 +35,26 @@ Model Fine-tuning - https://github.com/hiyouga/LLaMA-Factory
 **Chatbot for medical record and personal data** (This requires downloading the medical record and data)
 
 Download your medical record on your iPhone via Apple HealthKit - https://support.apple.com/en-ca/guide/iphone/iphc30019594/ios
-Google Fit (Lets you download your health data on Android) - https://www.google.com/fit/
-Blue Button (You can download your medical record using the blue button) - https://www.healthit.gov/topic/patient-access-information-individuals-get-it-check-it-use-it/blue-button
-Open Data Kit (Lets you acquire data from wearable devices) - https://getodk.org/
-Electronic Health Records (EHRs) Data Exploration - https://www.kaggle.com/code/gpreda/electronic-health-records-ehrs-data-exploration
-Medical Records Dataset - https://www.kaggle.com/datasets/cankatsrc/medical-records-dataset
-Synthea Dataset Jsons - https://www.kaggle.com/datasets/krsna540/synthea-dataset-jsons-ehr
-Apple Watch and Fitbit Kaggle data - https://www.kaggle.com/datasets/aleespinosa/apple-watch-and-fitbit-data
-Smartwatch Data Analysis - https://www.kaggle.com/code/amirmotefaker/smartwatch-data-analysis
-Activity recognition using wearables Kaggle datasets - https://www.kaggle.com/c/activity-recognition-wearables/overview
-FitBit Fitness Tracker Kaggle Data - https://www.kaggle.com/datasets/arashnic/fitbit/code
 
+Google Fit (Lets you download your health data on Android) - https://www.google.com/fit/
+
+Blue Button (You can download your medical record using the blue button) - https://www.healthit.gov/topic/patient-access-information-individuals-get-it-check-it-use-it/blue-button
+
+Open Data Kit (Lets you acquire data from wearable devices) - https://getodk.org/
+
+Electronic Health Records (EHRs) Data Exploration - https://www.kaggle.com/code/gpreda/electronic-health-records-ehrs-data-exploration
+
+Medical Records Dataset - https://www.kaggle.com/datasets/cankatsrc/medical-records-dataset
+
+Synthea Dataset Jsons - https://www.kaggle.com/datasets/krsna540/synthea-dataset-jsons-ehr
+
+Apple Watch and Fitbit Kaggle data - https://www.kaggle.com/datasets/aleespinosa/apple-watch-and-fitbit-data
+
+Smartwatch Data Analysis - https://www.kaggle.com/code/amirmotefaker/smartwatch-data-analysis
+
+Activity recognition using wearables Kaggle datasets - https://www.kaggle.com/c/activity-recognition-wearables/overview
+
+FitBit Fitness Tracker Kaggle Data - https://www.kaggle.com/datasets/arashnic/fitbit/code
 
 
 Use cases:
