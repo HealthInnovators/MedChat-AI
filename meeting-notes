@@ -1,13 +1,13 @@
 May 9
 
-Framework to build RAG Chat health applications
+## HealthLLM Framework to build RAG Chat health applications
 
 https://arxiv.org/pdf/2402.00746
 https://github.com/MingyuJ666/HealthLLM
 https://youtu.be/Us44JYUVX9g?si=LvCeXm6U2vtWBzoz
 https://www.llamaindex.ai/
 
-Models
+## Models
 
 ClinicalBERT (Clinical model trained on EHR data) - https://arxiv.org/abs/1904.05342 | https://huggingface.co/medicalai/ClinicalBERT
 
@@ -17,7 +17,9 @@ Llama 3 (General purpose model) - https://llama.meta.com/llama3/
 
 Model Fine-tuning - https://github.com/hiyouga/LLaMA-Factory
 
-Use cases for RAG Chatbot
+## Use cases for RAG Chatbot - https://www.youtube.com/watch?v=3OGpbWLQQbo
+
+## Chatbot for Medicare health insurance policy - https://www.medicare.gov/publications/10050-Medicare-and-You.pdf 
 
 ## Chatbot for medical record and personal data 
 
@@ -33,4 +35,3 @@ Smartwatch Data Analysis - https://www.kaggle.com/code/amirmotefaker/smartwatch-
 Activity recognition using wearables Kaggle datasets - https://www.kaggle.com/c/activity-recognition-wearables/overview
 FitBit Fitness Tracker Kaggle Data - https://www.kaggle.com/datasets/arashnic/fitbit/code
 
-## Chatbot for Medicare health insurance policy - https://www.medicare.gov/publications/10050-Medicare-and-You.pdf 
