@@ -7,24 +7,24 @@ OpenHealthChatLLM is an open-source language model (LLM) specifically designed f
 
 ## HealthLLM Framework to build RAG Chat health applications
 
-https://arxiv.org/pdf/2402.00746
-https://github.com/MingyuJ666/HealthLLM
-https://youtu.be/Us44JYUVX9g?si=LvCeXm6U2vtWBzoz
-https://www.llamaindex.ai/
+  -  https://arxiv.org/pdf/2402.00746
+  -  https://github.com/MingyuJ666/HealthLLM
+  -  https://youtu.be/Us44JYUVX9g?si=LvCeXm6U2vtWBzoz
+  -  https://www.llamaindex.ai/
 
 ## Models
 
-ClinicalBERT (Clinical model trained on EHR data) - https://arxiv.org/abs/1904.05342 | https://huggingface.co/medicalai/ClinicalBERT
+  -  ClinicalBERT (Clinical model trained on EHR data) - https://arxiv.org/abs/1904.05342 | https://huggingface.co/medicalai/ClinicalBERT
 
-BioMistral (Medical model trained on PubMed central data) - https://arxiv.org/abs/2402.10373 | https://huggingface.co/BioMistral/BioMistral-7B | https://huggingface.co/MaziyarPanahi/BioMistral-7B-GGUF (Quantized Model - Runs on local computer cpu)
+  -  BioMistral (Medical model trained on PubMed central data) - https://arxiv.org/abs/2402.10373 | https://huggingface.co/BioMistral/BioMistral-7B | https://huggingface.co/MaziyarPanahi/BioMistral-7B-GGUF (Quantized Model - Runs on local computer cpu)
 
 Llama 3 (General purpose model) - https://llama.meta.com/llama3/
 
 ## Opensource Vector Databases:
 
-Qdrant - https://qdrant.tech/
-Weviate - https://weaviate.io/
-Milvus - https://milvus.io/
+  -  Qdrant - https://qdrant.tech/
+  -  Weviate - https://weaviate.io/
+  -  Milvus - https://milvus.io/
 
 Model Fine-tuning - https://github.com/hiyouga/LLaMA-Factory
 
@@ -34,30 +34,30 @@ Model Fine-tuning - https://github.com/hiyouga/LLaMA-Factory
 
 **Chatbot for medical record and personal data** (This requires downloading the medical record and data)
 
-Download your medical record on your iPhone via Apple HealthKit - https://support.apple.com/en-ca/guide/iphone/iphc30019594/ios
+  -  Download health data from iPhone via Apple HealthKit - https://developer.apple.com/documentation/healthkit
 
-Google Fit (Lets you download your health data on Android) - https://www.google.com/fit/
+  -  Download your medical record on your iPhone via Apple HealthKit - https://support.apple.com/en-ca/guide/iphone/iphc30019594/ios
 
-Blue Button (You can download your medical record using the blue button) - https://www.healthit.gov/topic/patient-access-information-individuals-get-it-check-it-use-it/blue-button
+  -  Google Fit (Lets you download your health data on Android) - https://www.google.com/fit/
 
-Open Data Kit (Lets you acquire data from wearable devices) - https://getodk.org/
+  -  Blue Button (You can download your medical record using the blue button) - https://www.healthit.gov/topic/patient-access-information-individuals-get-it-check-it-use-it/blue-button
 
-Electronic Health Records (EHRs) Data Exploration - https://www.kaggle.com/code/gpreda/electronic-health-records-ehrs-data-exploration
+  -  Open Data Kit (Lets you acquire data from wearable devices) - https://getodk.org/
 
-Medical Records Dataset - https://www.kaggle.com/datasets/cankatsrc/medical-records-dataset
+  -  Electronic Health Records (EHRs) Data Exploration - https://www.kaggle.com/code/gpreda/electronic-health-records-ehrs-data-exploration
 
-Synthea Dataset Jsons - https://www.kaggle.com/datasets/krsna540/synthea-dataset-jsons-ehr
+  -  Medical Records Dataset - https://www.kaggle.com/datasets/cankatsrc/medical-records-dataset
 
-Apple Watch and Fitbit Kaggle data - https://www.kaggle.com/datasets/aleespinosa/apple-watch-and-fitbit-data
+  -  Synthea Dataset Jsons - https://www.kaggle.com/datasets/krsna540/synthea-dataset-jsons-ehr
 
-Smartwatch Data Analysis - https://www.kaggle.com/code/amirmotefaker/smartwatch-data-analysis
+  -  Apple Watch and Fitbit Kaggle data - https://www.kaggle.com/datasets/aleespinosa/apple-watch-and-fitbit-data
 
-Activity recognition using wearables Kaggle datasets - https://www.kaggle.com/c/activity-recognition-wearables/overview
+  -  Smartwatch Data Analysis - https://www.kaggle.com/code/amirmotefaker/smartwatch-data-analysis
 
-FitBit Fitness Tracker Kaggle Data - https://www.kaggle.com/datasets/arashnic/fitbit/code
+  -  Activity recognition using wearables Kaggle datasets - https://www.kaggle.com/c/activity-recognition-wearables/overview
 
+  -  FitBit Fitness Tracker Kaggle Data - https://www.kaggle.com/datasets/arashnic/fitbit/code
 
-Use cases:
 
 **MedPal** (Health Advocate AI) - https://docs.google.com/document/d/140chg3InY17M1cHWs5h8-TbLYf810MfDHz5eWt1iGe4/edit?usp=sharing
 **LabPal** - Most lab procedures involve specific dietary protocols to following before the procedure, LabPal helps the patient follow these protocols in simple language. The lab procedure could get cancelled if the patient does not adhere to the protocols.
