@@ -34,6 +34,8 @@ Model Fine-tuning - https://github.com/hiyouga/LLaMA-Factory
 
 **Chatbot for Medicare health insurance policy** - https://www.medicare.gov/publications/10050-Medicare-and-You.pdf (Medicare is the largest insurance organization in USA)
 
+**Clinical trial recruitment chatbot** - Clinical trial recruitment chatbot for Revolutionizing Mental Health Decentralized Clinical Trials for Psilocybin and Psilocin.
+
 **Chatbot for medical record and personal data** (This requires downloading the medical record and data)
 
   -  Download health data from iPhone via Apple HealthKit - https://developer.apple.com/documentation/healthkit
