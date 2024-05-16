@@ -14,6 +14,8 @@ OpenHealthChatLLM is an open-source language model (LLM) specifically designed f
 
 ## Models
 
+  -  BioBERT (Clinical model trained on discharge data) - https://sparknlp.org/2020/08/25/biobert_discharge_base_cased.html | https://huggingface.co/emilyalsentzer/Bio_Discharge_Summary_BERT | https://arxiv.org/pdf/1904.03323
+  
   -  ClinicalBERT (Clinical model trained on EHR data) - https://arxiv.org/abs/1904.05342 | https://huggingface.co/medicalai/ClinicalBERT
 
   -  BioMistral (Medical model trained on PubMed central data) - https://arxiv.org/abs/2402.10373 | https://huggingface.co/BioMistral/BioMistral-7B | https://huggingface.co/MaziyarPanahi/BioMistral-7B-GGUF (Quantized Model - Runs on local computer cpu)
