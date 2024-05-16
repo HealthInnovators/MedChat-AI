@@ -30,6 +30,8 @@ Model Fine-tuning - https://github.com/hiyouga/LLaMA-Factory
 
 ## Use cases for RAG Chatbot - https://www.youtube.com/watch?v=3OGpbWLQQbo
 
+**Chatbot for discharge summaries** - https://sparknlp.org/2020/08/25/biobert_discharge_base_cased.html | https://huggingface.co/emilyalsentzer/Bio_Discharge_Summary_BERT | https://arxiv.org/pdf/1904.03323
+
 **Chatbot for Medicare health insurance policy** - https://www.medicare.gov/publications/10050-Medicare-and-You.pdf (Medicare is the largest insurance organization in USA)
 
 **Chatbot for medical record and personal data** (This requires downloading the medical record and data)
