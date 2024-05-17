@@ -1,4 +1,28 @@
-May 9
+May 16 meeting notes
+
+Potential Use Cases from Kalyan Kalwa
+(1)    Chatbot for discharge summaries (educate the end user in a personalized way)
+(2)    RAG (Retrieval Augmented Generation) based chatbot to interact with their own Electronic Health Record  
+a.    Both Apple and Google made it easy to download data to mobile devices
+(3)    chatbot for Payer for Medicare policy (100+ pages long) and no one reads it
+a.    https://www.medicare.gov/publications/10050-Medicare-and-You.pdf
+(4)    Chatbot for Clinical trials for Psychedelics (e.g. Magic Mushroom) e.g. to support psychiatrist to prescribe for PTSD and non-treatable chronic depression.
+
+Other Suggested Use Cases from Attendees
+(1)    Jermol: Combine data gathered by Fitbit, etc wearable devices plus Electronic Health Record plus Health Care Large Language Model to make health recommendation to the user on an App on their smartphone.
+(2)    Mohit: Chatbot to transcribe appointment between doctor and patient.
+(3)    Meghana: Health Navigator and Care Coordinator RAG based chatbot
+
+Actions
+•    Attendees review links for the meetup “Build Your Own AI Healthcare Assistant Using Your medical record and Health data”:  https://www.meetup.com/healthi/events/299655879/
+•    Attendees review the data sources from this meetup “Building Open-Source UniConvert (JSON Data Standardization) Together using LLMs”: https://www.meetup.com/healthi/events/299948957/ 
+•    Kaggle has dummy data to use: https://www.kaggle.com/
+•    Attendees test out AI Doctor which is in Beta: https://testflight.apple.com/join/MQIM3fFZ 
+•    Next meeting - Review LLMHealth and llamaindex architecture
+•    MedPal app is in beta release - https://testflight.apple.com/join/MQIM3fFZ
+
+
+May 9 meeting notes
 
 ## HealthLLM Framework to build RAG Chat health applications
 
