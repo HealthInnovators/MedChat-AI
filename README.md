@@ -20,7 +20,9 @@ OpenHealthChatLLM is an open-source language model (LLM) specifically designed f
 
   -  BioMistral (Medical model trained on PubMed central data) - https://arxiv.org/abs/2402.10373 | https://huggingface.co/BioMistral/BioMistral-7B | https://huggingface.co/MaziyarPanahi/BioMistral-7B-GGUF (Quantized Model - Runs on local computer cpu)
 
-Llama 3 (General purpose model) - https://llama.meta.com/llama3/
+  -  idefics2 (Vision + Text (multimodal) language model) - https://huggingface.co/HuggingFaceM4/idefics2-8b | https://huggingface.co/docs/transformers/main/en/model_doc/idefics2 | https://huggingface.co/blog/idefics2
+
+  -  Llama 3 (General purpose model) - https://llama.meta.com/llama3/
 
 ## Opensource Vector Databases:
 
