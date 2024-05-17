@@ -40,6 +40,8 @@ Model Fine-tuning - https://github.com/hiyouga/LLaMA-Factory
 
 **Chatbot for medical record and personal data** (This requires downloading the medical record and data)
 
+  -  Medical Information Mart for Intensive Care (Medical record data) - https://mimic.mit.edu/ | https://github.com/MIT-LCP/mimic-code | 
+     https://mimic.mit.edu/docs/gettingstarted/
   -  Download health data from iPhone via Apple HealthKit - https://developer.apple.com/documentation/healthkit
 
   -  Download your medical record on your iPhone via Apple HealthKit - https://support.apple.com/en-ca/guide/iphone/iphc30019594/ios
