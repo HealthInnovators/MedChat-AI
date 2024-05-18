@@ -26,8 +26,8 @@ OpenHealthChatLLM is an open-source language model (LLM) specifically designed f
 
 ## Opensource Vector Databases:
 
+  -  Chroma - https://www.trychroma.com/
   -  Qdrant - https://qdrant.tech/
-  -  Weviate - https://weaviate.io/
   -  Milvus - https://milvus.io/
 
 Model Fine-tuning - https://github.com/hiyouga/LLaMA-Factory
