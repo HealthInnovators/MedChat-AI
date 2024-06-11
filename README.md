@@ -53,6 +53,8 @@ Model Fine-tuning - https://github.com/hiyouga/LLaMA-Factory
   -  Blue Button (You can download your medical record using the blue button) - https://www.healthit.gov/topic/patient-access-information-individuals-get-it-check-it-use-it/blue-button
 
   -  Open Data Kit (Lets you acquire data from wearable devices) - https://getodk.org/
+    
+  -  Electronic Health Records (EHRs) Datasets - https://som-shahlab.github.io/ehrshot-website/
 
   -  Electronic Health Records (EHRs) Data Exploration - https://www.kaggle.com/code/gpreda/electronic-health-records-ehrs-data-exploration
 
