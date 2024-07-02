@@ -1,7 +1,7 @@
-# OpenHealthChatLLM
+# MedChat AI
 
 ### Overview:
-OpenHealthChatLLM is an open-source language model (LLM) specifically designed for healthcare chat applications. It aims to provide accurate, reliable, and context-aware responses to inquiries related to medical information, health advice, symptom analysis, and more. The model will be trained on a diverse dataset sourced from reputable medical literature, clinical guidelines, and anonymized patient data (in compliance with privacy regulations) to ensure its effectiveness and safety in providing healthcare-related information.
+MedChat AI is an open-source language model (LLM) specifically designed for healthcare chat applications. It aims to provide accurate, reliable, and context-aware responses to inquiries related to medical information, health advice, symptom analysis, and more. The model will be trained on a diverse dataset sourced from reputable medical literature, clinical guidelines, and anonymized patient data (in compliance with privacy regulations) to ensure its effectiveness and safety in providing healthcare-related information.
 
 ### Useful Links
 
