@@ -19,7 +19,7 @@ MedChat AI is an open-source language model (LLM) specifically designed for heal
 
   -  BioMistral (Medical model trained on PubMed central data) - https://arxiv.org/abs/2402.10373 | https://huggingface.co/BioMistral/BioMistral-7B | https://huggingface.co/MaziyarPanahi/BioMistral-7B-GGUF (Quantized Model - Runs on local computer cpu)
 
-  -  idefics2 (Vision + Text (multimodal) language model) - https://huggingface.co/HuggingFaceM4/idefics2-8b | https://huggingface.co/docs/transformers/main/en/model_doc/idefics2 | https://huggingface.co/blog/idefics2
+  -  Qwen 2 (Vision + Text (multimodal) language model) - https://huggingface.co/HuggingFaceM4/idefics2-8b | https://huggingface.co/docs/transformers/main/en/model_doc/idefics2 | https://huggingface.co/blog/idefics2
 
   -  Llama 3 (General purpose model) - https://llama.meta.com/llama3/
 
@@ -77,8 +77,6 @@ Model Fine-tuning - https://github.com/hiyouga/LLaMA-Factory
 
 Implementation - Watch this video to implement the BioMistral chatbot locally - https://www.youtube.com/watch?v=A_m3tCqdts4
 
-### Join our events - https://www.meetup.com/healthi/events/300523228/
-
 ### Project Structure:
 
 Folders within the repository for different components:
@@ -96,7 +94,7 @@ We will consider using open-source libraries like Transformers (https://huggingf
 - **Medical Knowledge Base:** The model is trained on a vast repository of medical knowledge, covering various medical specialties and topics.
 - **Privacy and Security:** OpenHealthChatLLM prioritizes user privacy and data security, ensuring compliance with healthcare regulations such as HIPAA (Health Insurance Portability and Accountability Act).
 - **Customization:** Users can fine-tune the model for specific healthcare domains or integrate additional datasets to enhance its capabilities.
-- **Scalability:** OpenHealthChatLLM is designed to scale efficiently, allowing seamless integration into both small-scale applications and large-scale healthcare platforms.
+- **Scalability:** MedChat AI is designed to scale efficiently, allowing seamless integration into both small-scale applications and large-scale healthcare platforms.
 
 ### Contribution Guidelines:
 We welcome contributions from developers, researchers, and healthcare professionals to improve OpenHealthChatLLM. Contributions can include but are not limited to:
@@ -107,18 +105,16 @@ We welcome contributions from developers, researchers, and healthcare profession
 - **Bug Fixes:** Identifying and fixing bugs to ensure the reliability of the model.
 
 ### Getting Started:
-To get started with OpenHealthChatLLM, follow these steps:
+To get started with MedChat AI, follow these steps:
 1. Clone the repository: `git clone https://github.com/HealthInnovators/OpenHealthChatLLM`
 2. Install dependencies: `pip install -r requirements.txt`
 3. Explore the documentation to understand how to use and contribute to OpenHealthChatLLM.
 
 ### License:
-OpenHealthChatLLM is licensed under the MIT License.
+MedChat AI is licensed under the MIT License.
 
 ### Contact:
 For inquiries or suggestions, please contact the project maintainers at [kal@healthiai.org](mailto:kal@healthiai.org).
 
 ### Disclaimer:
-OpenHealthChatLLM is a research project and should not be used as a substitute for professional medical advice. Users are encouraged to consult qualified healthcare professionals for medical concerns and advice.
-
-### Join us on Discord - https://discord.gg/9abbBV2Gfw
+MedChat AI is a research project and should not be used as a substitute for professional medical advice. Users are encouraged to consult qualified healthcare professionals for medical concerns and advice.
