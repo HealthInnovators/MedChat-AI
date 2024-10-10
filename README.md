@@ -8,7 +8,6 @@ MedChat AI is an open-source language model (LLM) specifically designed for heal
 ## HealthLLM Framework to build RAG Chat health applications
 
   -  https://arxiv.org/pdf/2402.00746
-  -  https://github.com/MingyuJ666/HealthLLM
   -  https://youtu.be/Us44JYUVX9g?si=LvCeXm6U2vtWBzoz
   -  https://www.llamaindex.ai/
 
